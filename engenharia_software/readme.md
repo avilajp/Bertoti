@@ -8,3 +8,9 @@ with higher-stakes outcomes, often based on imprecise estimates of time and grow
 Basicamente a engenharia de software se baseia na gestão de tempo, escala
 e trade-offs, é uma profissão em que os engenheiros precisam saber lidar
 com as mudanças que podem ocorrer nos projetos ao longo do tempo, o que
+afeta diretamente no processo de organização da engenharia, é importante
+também se preocupar com a escala da eficiência, pois também afeta todo o
+processo de produção, finalmente a engenharia de software é responsável
+por responder as questões mais complexas e de alto risco para gerar estimativas
+de tempo e crescimento, vale se atentar para o fato de que, se for um trabalho
+desleixado pode gerar dados imprecisos.

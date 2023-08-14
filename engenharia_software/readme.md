@@ -29,7 +29,7 @@ de se entender, o que são tarefas de programação e o que são tarefas de enge
 novas dimensões de programação passaram a existir. Cubos não são quadrados, distancia não significa velocidade e 
 Engenharia de software não é necessáriamente programação.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Com base nestes dois trechos, 3 exemplos de trade-offs são:
+-  Com base nestes dois trechos, 3 exemplos de trade-offs são:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Funcionalidade x Validação
   
@@ -40,8 +40,9 @@ Engenharia de software não é necessáriamente programação.
 
   Manutenção x Desempenho.
 
-    Quando opto por desempenho no meu site de forma rápido mas perco em manutenbilidade quando meu código fica complexo por que foram
-    simplesmente jogadas funcionalidades dentro do código.
+    Quando opto por desempenho no meu site de forma a adicionar mais conteúdos e funcionalidadesmas perco em manutenbilidade quando meu código 
+    fica complexo por que foram simplesmente jogadas funcionalidades dentro do código, sem identação, sem 'limpeza', então fica um código sujo
+    e de dificil manutenbilidade.
 
   Segurança x Usabilidade.
 

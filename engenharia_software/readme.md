@@ -51,3 +51,16 @@ Engenharia de software não é necessáriamente programação.
     complexa ficarem as autenticações, pior fica a usabilidade de usuário.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Por que um e-commerce vende mais que os outros ?
+Requisito não-funcional
+- Ambos tem as 'mesmas' coisas, fazem venda por pix, vendem on-line, entrega sem frete.
+- Exemplo fui comprar na Americanas, era fim de ano, entrei no site e apareceu um papai noel e toda hora sem querer
+abria propagando e redirecionava para outros sites, resumo ? depois de muito tentar, o cliente desiste e vai para outro site
+'Amazon'.
+
+3 - Atividade (Steam e EpicGames) - Escolha outro exemplo e faça essa mesma atividade (Chat)
+    
+    Ambos são aplicativos de jogos on-line entretanto a Steam conta com super usabilidade de usuário e tem diversos acessos e compras 
+    inclusive. Já a EpicGames por mais que faça exatamente o mesmo serviço, a usabilidade é pessima, não roda direito em praticamente
+    todos os computadores fazendo com que o usuários sofram com a lentidão de donwloads e ainda com poucos jogos atuais disponíveis.

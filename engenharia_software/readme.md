@@ -65,91 +65,12 @@ abria propagando e redirecionava para outros sites, resumo ? depois de muito ten
     inclusive. Já a EpicGames por mais que faça exatamente o mesmo serviço, a usabilidade é pessima, não roda direito em praticamente
     todos os computadores fazendo com que o usuários sofram com a lentidão de donwloads e ainda com poucos jogos atuais disponíveis.
 
-ATIVIDADE 21-08-2023
+### ATIVIDADE 21-08-2023
 
-[Uploading Biblioteca.drawio…]()<mxfile host="app.diagrams.net" modified="2023-08-21T23:12:00.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="uHa69YOq845QC-SL9M6g" version="21.6.8" type="device">
-  <diagram name="Página-1" id="ZHeiRIzCR86s6FnEl8aW">
-    <mxGraphModel dx="883" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="mEWZMtl0eUW2mmlCi85--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=open;endFill=0;" edge="1" parent="1" source="mEWZMtl0eUW2mmlCi85--1" target="mEWZMtl0eUW2mmlCi85--2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--1" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="280" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="mEWZMtl0eUW2mmlCi85--2" target="mEWZMtl0eUW2mmlCi85--9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--2" value="Buscar Livro" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7DB1FF;" vertex="1" parent="1">
-          <mxGeometry x="125" y="280" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="mEWZMtl0eUW2mmlCi85--4" target="mEWZMtl0eUW2mmlCi85--8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--4" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="715" y="280" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="mEWZMtl0eUW2mmlCi85--8" target="mEWZMtl0eUW2mmlCi85--13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--8" value="Exibir Livros Disponíveis" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7DB1FF;" vertex="1" parent="1">
-          <mxGeometry x="545" y="280" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="mEWZMtl0eUW2mmlCi85--9" target="mEWZMtl0eUW2mmlCi85--18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--9" value="Selecionar Livros da Lista" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7DB1FF;" vertex="1" parent="1">
-          <mxGeometry x="225" y="180" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="mEWZMtl0eUW2mmlCi85--13" target="mEWZMtl0eUW2mmlCi85--21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--13" value="Informações dos Livros" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7DB1FF;" vertex="1" parent="1">
-          <mxGeometry x="455" y="180" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.414;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mEWZMtl0eUW2mmlCi85--18" target="mEWZMtl0eUW2mmlCi85--25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--18" value="Empréstimo de Livro" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7DB1FF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEWZMtl0eUW2mmlCi85--21" target="mEWZMtl0eUW2mmlCi85--26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--21" value="Disponibilidade para empréstimo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7DB1FF;" vertex="1" parent="1">
-          <mxGeometry x="440" y="360" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--23" value="Devolução Livro" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7DB1FF;" vertex="1" parent="1">
-          <mxGeometry x="225" y="500" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--24" value="Recolhe os Livros Devolvidos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7DB1FF;" vertex="1" parent="1">
-          <mxGeometry x="480" y="500" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEWZMtl0eUW2mmlCi85--25" target="mEWZMtl0eUW2mmlCi85--23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--25" value="Solicitar Renovação Empréstimo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7DB1FF;" vertex="1" parent="1">
-          <mxGeometry x="140" y="410" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEWZMtl0eUW2mmlCi85--26" target="mEWZMtl0eUW2mmlCi85--24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--26" value="Verifica Renovação do Empréstimo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7DB1FF;" vertex="1" parent="1">
-          <mxGeometry x="575" y="420" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--37" value="&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=open;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startFill=0;endFill=0;dashed=1;" edge="1" parent="1" source="mEWZMtl0eUW2mmlCi85--23" target="mEWZMtl0eUW2mmlCi85--24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="580" as="sourcePoint" />
-            <mxPoint x="390" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mEWZMtl0eUW2mmlCi85--41" value="Sistema de Biblioteca" style="swimlane;startSize=0;fontSize=20;verticalAlign=middle;fontStyle=2;fontColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="110" y="150" width="590" height="460" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
+<br> 
 
+### Realização de atividade de criação de --<<<'Diagrama de Caso de Uso'>>>--
+
+<p align="center">
+  <img src="https://github.com/avilajp/Bertoti/assets/89164277/8a8226a6-28d5-4e4f-ab38-c9be493ff389" alt="Imagem">
+</p>

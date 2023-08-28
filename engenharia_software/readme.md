@@ -5,7 +5,7 @@ we need to be more concerned about scale and efficiency, both for the software w
 that is producing it. Finally, as software engineers, we are asked to make more complex decisions
 with higher-stakes outcomes, often based on imprecise estimates of time and growth.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--  Basicamente a engenharia de software se baseia na gestão de tempo, escala
+-  Basicamente a engenharia de software se baseia na gestão de tempo,  escala
 e trade-offs, é uma profissão em que os engenheiros precisam saber lidar
 com as mudanças que podem ocorrer nos projetos ao longo do tempo, o que
 afeta diretamente no processo de organização da engenharia, é importante

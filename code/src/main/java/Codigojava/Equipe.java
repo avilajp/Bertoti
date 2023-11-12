@@ -1,7 +1,9 @@
+package Codigojava;
+
 import java.util.ArrayList;
 import java.util.List;
 
-class Equipe {
+public class Equipe {
     private String nomeLider;
     private List<Funcionario> funcionarios;
 

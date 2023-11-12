@@ -1,5 +1,7 @@
+package Codigojava;
+
 public class Funcionario {
-    public String nome;
+    private String nome;
 
     public Funcionario(String nome) {
         this.nome = nome;

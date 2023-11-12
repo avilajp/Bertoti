@@ -72,5 +72,13 @@ abria propagando e redirecionava para outros sites, resumo ? depois de muito ten
 ### Realização de atividade de criação de --<<<'Diagrama de Caso de Uso'>>>--
 
 <p align="center">
-  <img src="https://github.com/avilajp/Bertoti/assets/89164277/8a8226a6-28d5-4e4f-ab38-c9be493ff389" alt="Imagem">
+  <img src="DOC/verfinal.png" alt="Imagem">
+</p>
+
+### ATIVIDADE 11-09-2023
+
+### Realização de atividade de criação de --<<<'Diagrama de Classe'>>>--
+
+<p align="center">
+  <img src="DOC/verclassefinal.png" alt="Imagem">
 </p>

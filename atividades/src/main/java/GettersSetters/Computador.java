@@ -1,4 +1,4 @@
-package Heuristicas;
+package GettersSetters;
 
 public class Computador {
 

@@ -82,3 +82,11 @@ abria propagando e redirecionava para outros sites, resumo ? depois de muito ten
 <p align="center">
   <img src="DOC/verclassefinal.png" alt="Imagem">
 </p>
+
+### Heuristica
+
+### 10 exemplos com base no site que o professor passou
+
+<p align="center">
+  <img src="DOC/heristica.png" alt="Imagem">
+</p>

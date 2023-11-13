@@ -1,7 +1,7 @@
-package Heuristicas;
+package GettersSetters;
 
 public class Teste {
-    // Método que cria objetos da classe Carro, modifica suas propriedades e exibe informações sobre eles.
+
     public static void main(String[] args) {
         carro();
         bicicleta();

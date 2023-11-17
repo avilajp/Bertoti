@@ -83,15 +83,7 @@ Engenharia de software não é necessáriamente programação.
 </details>
 
 <details>
-   <summary><b>3.4 Flexibilidade e eficiência de uso</b></summary>
-
-<p>Descrição:<br> Dentro do Trello as tarefas online com base em colunas quando você está com o foco em um cartão você pode utilizar o mouse para navegar em outros cartões, as teclas direcionais (setas pra cima e pra baixo)<br>
-<br>
-<img alt="" height="450em" src="https://i.imgur.com/E8Z8NcJ.png">
-</details>
-
-<details>
-   <summary><b>3.5 Visibilidade do status do sistema </b></summary>
+   <summary><b>3.4 Visibilidade do status do sistema </b></summary>
 
 <p>Descrição:<br>O Youtube, por exemplo, disponibiliza uma barra lateral informando qual vídeo estamos vendo, quais já foram assistidos e quais são os próximos da lista.  <br>
 <br>
@@ -99,7 +91,7 @@ Engenharia de software não é necessáriamente programação.
 </details>
 
 <details>
-   <summary><b>3.6 Consistência e padrões </b></summary>
+   <summary><b>3.5 Consistência e padrões </b></summary>
 
 <p>Descrição:<br> Durante a interação os usuários não devem ter dúvidas sobre o significado das palavras, ícones ou símbolos utilizados.
 Portanto, é fundamental que uma interface siga as convenções da plataforma, mantendo padrões de interação   <br>
@@ -108,19 +100,17 @@ Portanto, é fundamental que uma interface siga as convenções da plataforma, m
 </details>
 
 <details>
-   <summary><b>3.7 Ajuda e documentação </b></summary>
+   <summary><b>3.6 Ajuda e documentação </b></summary>
 
 <p>Descrição:<br> Uma solução bastante popular são os FAQs, nos quais são compiladas as principais e mais frequentes dúvidas e suas respectivas soluções.   <br>
 <br>
 <img alt="" height="450em" src="https://i.imgur.com/7OX1qcP.png">
 </details>
 
-
-
 ## Exemplos de Erros
 
 <details>
-  <summary><b>3.8 Uso de cores Nível A e 1.4.3 Contraste (mínimo) Nível AA:</b></summary>
+  <summary><b>3.7 Uso de cores Nível A e 1.4.3 Contraste (mínimo) Nível AA:</b></summary>
 
 <p>Descrição:<br> Devido a falta de especificação de cores e contraste usuarios com baixa visão acharão muito mais dificil de ver uma página da Web.</p>
 
@@ -129,7 +119,7 @@ Portanto, é fundamental que uma interface siga as convenções da plataforma, m
 </details>
 
 <details>
-  <summary><b>3.9	Adaptável:</b></summary>
+  <summary><b>3.8	Responsividade Mobile:</b></summary>
 
 <p>Descrição:<br>O site Siga não se ajusta responsivamente para o padrão mobile.</p>
 
@@ -139,7 +129,7 @@ Portanto, é fundamental que uma interface siga as convenções da plataforma, m
 
 
 <details>
-  <summary><b>3.10 Apresentação visual </b></summary>
+  <summary><b>3.9 Apresentação Visual c/ Falha de Responsividade </b></summary>
 
 <p>Descrição:<br>O site Facebook tem uma uma disparidade muito grande quando enviamos um video do Mobile Para ser visto em dispositivos Desktop.</p>
 
@@ -147,7 +137,7 @@ Portanto, é fundamental que uma interface siga as convenções da plataforma, m
 
 </details>
 <details>
-  <summary><b>3.11 Navegavel</b></summary>
+  <summary><b>3.10 Navegação</b></summary>
 
 <p>Descrição:<br>O site Apresenta Falha em colocar muitas Propagandas ao Usuario que impede de Realizar a Visualização do conteudo.</p>
 

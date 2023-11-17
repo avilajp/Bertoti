@@ -13,7 +13,7 @@ public class teste {
     public void testGetNome() {
         Empresa empresa = new Empresa("empresaTeste", "aeronave");
         String nome = empresa.getNome();
-        Assertions.assertEquals("empresaTest", nome);
+        Assertions.assertEquals("empresaTeste", nome);
         if (nome.equals("empresaTeste")) {
             System.out.println("Teste testGetNome passou com sucesso!");
         }

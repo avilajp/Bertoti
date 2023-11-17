@@ -172,11 +172,3 @@ Portanto, é fundamental que uma interface siga as convenções da plataforma, m
 <p align="center">
   <img src="DOC/verclassefinal.png" alt="Imagem">
 </p>
-
-### Heuristica
-
-### 10 exemplos com base no site que o professor passou
-
-<p align="center">
-  <img src="DOC/heristica.png" alt="Imagem">
-</p>

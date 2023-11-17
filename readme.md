@@ -52,20 +52,20 @@ Engenharia de software não é necessáriamente programação.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Heurísticas
+# 3 - Heurísticas
 
 ## Exemplos de acertos
 
 
 <details>
-   <summary><b>3.2.1 Design minimalista e Design estético:</b></summary>
+   <summary><b>3.1 Design minimalista e Design estético:</b></summary>
 <p>Descrição: <br>a inteção principal é realzar uma pesquisa e, portanto, o foco da página vai unicamente para barra de pesquisa.</p>
 
 <img alt="Google" height="450em" src="https://i.imgur.com/CF1ATI4.png">
 </details>
 
 <details>
-   <summary><b>3.3.6 Prevenção de erros (todos) Nível AAA:</b></summary>
+   <summary><b>3.2 Prevenção de erros (todos) Nível AAA:</b></summary>
 
 <p>Descrição: <br>os dados inseridos pelo usuário são verificados quanto a erros de entrada e o usuário tem a oportunidade de corrigi-los.</p>
 
@@ -74,7 +74,7 @@ Engenharia de software não é necessáriamente programação.
 </details>
 
 <details>
-   <summary><b>3. Controle e liberdade do usuário:</b></summary>
+   <summary><b>3.3 Controle e liberdade do usuário:</b></summary>
 
 <p>Descrição: <br>Um bom Exemplo é o proprio Email do google que permite que o usuario consiga 'Desfazer' a ação caso tenho excluido um email por engano</p>
 
@@ -83,7 +83,7 @@ Engenharia de software não é necessáriamente programação.
 </details>
 
 <details>
-   <summary><b>3.2.4 Flexibilidade e eficiência de uso</b></summary>
+   <summary><b>3.4 Flexibilidade e eficiência de uso</b></summary>
 
 <p>Descrição:<br> Dentro do Trello as tarefas online com base em colunas quando você está com o foco em um cartão você pode utilizar o mouse para navegar em outros cartões, as teclas direcionais (setas pra cima e pra baixo)<br>
 <br>
@@ -91,7 +91,7 @@ Engenharia de software não é necessáriamente programação.
 </details>
 
 <details>
-   <summary><b>1.4.13 Visibilidade do status do sistema </b></summary>
+   <summary><b>3.5 Visibilidade do status do sistema </b></summary>
 
 <p>Descrição:<br>O Youtube, por exemplo, disponibiliza uma barra lateral informando qual vídeo estamos vendo, quais já foram assistidos e quais são os próximos da lista.  <br>
 <br>
@@ -99,7 +99,7 @@ Engenharia de software não é necessáriamente programação.
 </details>
 
 <details>
-   <summary><b>3.2.3 Consistência e padrões </b></summary>
+   <summary><b>3.6 Consistência e padrões </b></summary>
 
 <p>Descrição:<br> Durante a interação os usuários não devem ter dúvidas sobre o significado das palavras, ícones ou símbolos utilizados.
 Portanto, é fundamental que uma interface siga as convenções da plataforma, mantendo padrões de interação   <br>
@@ -108,7 +108,7 @@ Portanto, é fundamental que uma interface siga as convenções da plataforma, m
 </details>
 
 <details>
-   <summary><b>3.3.5 Ajuda e documentação </b></summary>
+   <summary><b>3.7 Ajuda e documentação </b></summary>
 
 <p>Descrição:<br> Uma solução bastante popular são os FAQs, nos quais são compiladas as principais e mais frequentes dúvidas e suas respectivas soluções.   <br>
 <br>
@@ -120,7 +120,7 @@ Portanto, é fundamental que uma interface siga as convenções da plataforma, m
 ## Exemplos de Erros
 
 <details>
-  <summary><b>1.4.1 Uso de cores Nível A e 1.4.3 Contraste (mínimo) Nível AA:</b></summary>
+  <summary><b>3.8 Uso de cores Nível A e 1.4.3 Contraste (mínimo) Nível AA:</b></summary>
 
 <p>Descrição:<br> Devido a falta de especificação de cores e contraste usuarios com baixa visão acharão muito mais dificil de ver uma página da Web.</p>
 
@@ -129,7 +129,7 @@ Portanto, é fundamental que uma interface siga as convenções da plataforma, m
 </details>
 
 <details>
-  <summary><b>1.3	Adaptável:</b></summary>
+  <summary><b>3.9	Adaptável:</b></summary>
 
 <p>Descrição:<br>O site Siga não se ajusta responsivamente para o padrão mobile.</p>
 
@@ -139,7 +139,7 @@ Portanto, é fundamental que uma interface siga as convenções da plataforma, m
 
 
 <details>
-  <summary><b>1.4.8 Apresentação visual </b></summary>
+  <summary><b>3.10 Apresentação visual </b></summary>
 
 <p>Descrição:<br>O site Facebook tem uma uma disparidade muito grande quando enviamos um video do Mobile Para ser visto em dispositivos Desktop.</p>
 
@@ -147,7 +147,7 @@ Portanto, é fundamental que uma interface siga as convenções da plataforma, m
 
 </details>
 <details>
-  <summary><b>2.4 Navegavel</b></summary>
+  <summary><b>3.11 Navegavel</b></summary>
 
 <p>Descrição:<br>O site Apresenta Falha em colocar muitas Propagandas ao Usuario que impede de Realizar a Visualização do conteudo.</p>
 

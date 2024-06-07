@@ -2,43 +2,32 @@ import { useState } from "react";
 import carroFetch from "../axios/config";
 import "./NewPost.css";
 
-
-
-
 const NewPost = () => {
   const [modelo, setModelo] = useState("");
   const [marca, setMarca] = useState("");
-  const [preco, setPreco] = useState();
-  const [id, setId] = useState(1); 
-  
-
+  const [preco, setPreco] = useState("");
 
   const createCarro = async (e) => {
     e.preventDefault();
-    
-    const newId =id;
-    const carro = {id: newId, modelo, marca, preco };
-    console.log('Carro criado:', carro);
-    
+
+    const carro = { modelo, marca, preco: parseInt(preco, 10) };
+
     try {
       await carroFetch.post("/Carros", carro);
 
       alert('Carro adicionado com sucesso.');
       setModelo("");
       setMarca("");
-      setPreco(0);   
-      setId(id+1);   
+      setPreco("");
     } catch (error) {
       console.error('Erro ao adicionar carro:', error);
-      // Lógica para lidar com o erro, se necessário
     }
   };
-
 
   return (
     <div className="new-movie">
       <h1>Adicionar Carro</h1>
-      <form onSubmit={(e) => createCarro(e)}>
+      <form onSubmit={createCarro}>
         <div className="form-control">
           <label htmlFor="modelo">Modelo do carro</label>
           <input
@@ -69,14 +58,10 @@ const NewPost = () => {
             id="preco"
             placeholder="Digite o preço do carro"
             value={preco}
-            onChange={(e) => setPreco(parseInt(e.target.value, 10))}
+            onChange={(e) => setPreco(e.target.value)}
           />
         </div>
-        <button type="submit" className="btn" >Inserir Carro</button>
-        
-        
-
-        
+        <button type="submit" className="btn">Inserir Carro</button>
       </form>
     </div>
   );

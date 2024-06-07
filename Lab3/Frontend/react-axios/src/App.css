@@ -1,5 +1,9 @@
-.container{
+.container {
     max-width: 1000px;
     margin: 2rem auto;
-    padding: 0 2ren;
+    padding: 0 2rem;
+    background-color: #34495e;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
 }

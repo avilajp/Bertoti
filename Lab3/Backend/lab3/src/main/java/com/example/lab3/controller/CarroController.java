@@ -1,29 +1,19 @@
 package com.example.lab3.controller;
 
-import java.util.List;
-
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.CrossOrigin;
-import org.springframework.web.bind.annotation.DeleteMapping;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PutMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
-
-import com.example.lab3.entitties.Carro;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
+
+import com.example.lab3.entitties.Carro;
+
 @CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/Carros")
 public class CarroController {
 
     private List<Carro> carros = new ArrayList<>();
+    private long currentId = 1;
 
     @GetMapping
     public List<Carro> findAll() {
@@ -38,20 +28,23 @@ public class CarroController {
 
     @PostMapping
     public Carro insert(@RequestBody Carro carro) {
+        carro.setId(currentId++);
         carros.add(carro);
         return carro;
     }
 
-    /*@PutMapping("/{id}")
+    @PutMapping("/{id}")
     public Carro update(@PathVariable Long id, @RequestBody Carro carro) {
         Optional<Carro> carroOptional = carros.stream().filter(c -> c.getId().equals(id)).findFirst();
         if (carroOptional.isPresent()) {
             Carro existingCarro = carroOptional.get();
-            existingCarro.set(carro.getModelo());  // Atualize outros campos conforme necessário
+            existingCarro.setModelo(carro.getModelo());
+            existingCarro.setMarca(carro.getMarca());
+            existingCarro.setPreco(carro.getPreco());
             return existingCarro;
         }
         return null;
-    }*/
+    }
 
     @DeleteMapping("/{id}")
     public void delete(@PathVariable Long id) {
